@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Arlette Saenz",
+      "title": "First on CNN: Biden administration launches new income-driven student debt repayment plan - CNN",
+      "description": "The Biden administration is launching a beta website for its new income-driven student loan repayment plan today, officials told CNN, allowing borrowers to begin submitting applications for the program as federal student loan payments are set to resume in Oct…",
+      "url": "https://www.cnn.com/2023/07/30/politics/biden-student-loan-repayment-plan/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230730130942-03-joe-biden-maine-072823.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-07-30T17:46:00Z",
+      "content": "The Biden administration is launching a beta website for its new income-driven student loan repayment plan today, officials told CNN, allowing borrowers to begin submitting applications for the progr… [+4066 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Deadline" },
+      "author": "Nancy Tartaglione",
+      "title": "‘Barbie’ Pirouettes To Powerhouse $775M Global; ‘Oppenheimer’ A Phenom At $400M WW – International Box Office - Deadline",
+      "description": "SUNDAY UPDATE, Refresh for latest…: Warner Bros’ Barbie continued to show its prowess this weekend worldwide, riding a wave of hot pink fun, savvy marketing and sincere message to a pow…",
+      "url": "https://deadline.com/2023/07/barbie-oppenheimer-barbenheimer-second-weekend-global-international-box-office-1235450844/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2023/07/barbie-oppenheimer.jpg?w=1024",
+      "publishedAt": "2023-07-30T17:23:00Z",
+      "content": "SUNDAY UPDATE, Refresh for latest…: Warner Bros’ Barbie continued to show its prowess this weekend worldwide, riding a wave of hot pink fun, savvy marketing and sincere message to a powerful $774.5M … [+4092 chars]"
+    },
+    {
+      "source": { "id": null, "name": "POLITICO.eu" },
+      "author": "Varg Folkman",
+      "title": "Nuclear weapons on the table if Ukraine counteroffensive succeeds: Russia's Medvedev - POLITICO Europe",
+      "description": "There would be ‘no other way out’ if Kyiv takes Russian territory, says the former Russian president and current National Security Council deputy chairman.",
+      "url": "https://www.politico.eu/article/russia-dmitry-medvedev-ukraine-counteroffensive-russia-invasion-war-nuclear-weapons/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/07/30/GettyImages-468943831-scaled.jpg",
+      "publishedAt": "2023-07-30T17:08:33Z",
+      "content": "If Ukraine’s ongoing counteroffensive against Moscow’s invasion captures Russian territory, there would be no alternative to using strategic nuclear weapons, Russia’s Dmitry Medvedev warned on Sunday… [+1273 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": null,
+      "title": "One person is dead and multiple were wounded in Indiana shooting, police say - The Associated Press",
+      "description": "Police say one person was killed and multiple people were injured after a shooting early Sunday morning in Muncie, Indiana. The Star Press reports that police responded to calls of gunfire on the city's east side, where a large party was taking place. Police …",
+      "url": "https://apnews.com/article/muncie-indiana-shooting-dead-e6988e3fd6edc177d2d5adfbfb5db535",
+      "urlToImage": "https://dims.apnews.com/dims4/default/29d2f02/2147483647/strip/true/crop/3168x1782+0+297/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe1%2F99%2Fa345f35d7db37c121e935855c9d1%2Ff62b8339eaf1450fb6ee7c2b2f1bd4ee",
+      "publishedAt": "2023-07-30T17:04:00Z",
+      "content": "MUNCIE, Ind. (AP) A mass shooting at a large party in Indiana early Sunday morning left one person dead, police said. A hospital said 19 people were being treated for injuries at its facility.\r\nMunci… [+1234 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Jibran Ahmad, Saud Mehsud",
+      "title": "Suicide bomb at political rally in Pakistan kills at least 40, injures 130 - Reuters",
+      "description": "At least 40 people were killed and over 130 injured when a suicide bomber set off explosives at a political rally in Pakistan's northwestern Khyber Pakhtunkhwa province on Sunday, police said.",
+      "url": "https://www.reuters.com/world/asia-pacific/explosion-northwest-pakistan-kills-least-20-geo-news-2023-07-30/",
+      "urlToImage": "https://www.reuters.com/resizer/Yr6fd1LWOhqcJTZU1a82slHdlnE=/1040x544/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WHNAIWKWQRPWFMZ6ZMY7C6CI4Q.jpg",
+      "publishedAt": "2023-07-30T16:47:00Z",
+      "content": "DERA ISMAIL KHAN, Pakistan, July 30 (Reuters) - At least 40 people were killed and over 130 injured when a suicide bomber set off explosives at a political rally in Pakistan's northwestern Khyber Pak… [+2153 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Eva Rothenberg",
+      "title": "Elon Musk reactivates Kanye West’s Twitter account following X rebrand - CNN",
+      "description": "X, formerly known as Twitter, has reinstated Kanye West’s account on the social media platform. West will not be able to monetize his account, and no ads will appear next to his posts, the company told the Wall Street Journal on Saturday.",
+      "url": "https://www.cnn.com/2023/07/30/business/kanye-west-twitter-account-elon-musk/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230730113612-kanye-051323.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-07-30T16:28:00Z",
+      "content": "X, formerly known as Twitter, has reinstated Kanye Wests account on the social media platform. West will not be able to monetize his account, and no ads will appear next to his posts, the company tol… [+2461 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Dexerto" },
+      "author": "Josh Taylor",
+      "title": "PlayStation Classic flops on Steam despite strong reviews - Dexerto",
+      "description": "Sony released ‘Ratchet & Clank: Rift Apart’ on Steam on July 26, peaking at less than 9 thousand PC players compared to PlayStation success.",
+      "url": "https://www.dexerto.com/gaming/playstation-classic-flops-on-steam-despite-strong-reviews-2230530/",
+      "urlToImage": "https://editors.dexerto.com/wp-content/uploads/2023/07/30/SteamVsPlaystation.jpg",
+      "publishedAt": "2023-07-30T16:16:12Z",
+      "content": "Sony released Ratchet &amp; Clank: Rift Apart on Steam on July 26, peaking at only 8757 concurrent players.This charts well below other PlayStation PC ports.\r\nSony has continued to dominate the conso… [+2437 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Billboard" },
+      "author": "Mitchell Peters",
+      "title": "Cardi B Throws Mic at Concertgoer Who Splashed Drink at Her Onstage - Billboard",
+      "description": "The incident went down during her performance at Las Vegas’ Drai’s Beachclub on July 29.",
+      "url": "https://www.billboard.com/music/rb-hip-hop/cardi-b-throws-microphone-fan-tossed-drink-onstage-video-1235381613/",
+      "urlToImage": "https://www.billboard.com/wp-content/uploads/2023/07/Cardi-B-hot-107-2023-billboard-1548.jpg?w=1024",
+      "publishedAt": "2023-07-30T16:08:31Z",
+      "content": "Cardi B got even with a concertgoer who tossed a drink at her during the rapper’s performance in Las Vegas on Saturday (July 29).\r\nIn a video circulating on social media, the 30-year-old hip-hop star… [+1447 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Leila Sackur",
+      "title": "Drones target Russian capital on eve of military parade attended by Putin - CNBC",
+      "description": "The defense ministry described the incident as an “attempt by the Kyiv regime to launch a terrorist attack by unmanned aerial vehicles.”",
+      "url": "https://www.cnbc.com/2023/07/30/drones-target-russian-capital-on-eve-of-military-parade-attended-by-putin.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107278915-1690732840862-gettyimages-1564057279-AFP_33QC489.jpeg?v=1690733186&w=1920&h=1080",
+      "publishedAt": "2023-07-30T16:06:26Z",
+      "content": "Russian officials say they shot down three Ukrainian drones targeting Moscow early Sunday, hours before the start of a major military parade attended by President Vladimir Putin.\r\nImages from a crash… [+2907 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Asa Hutchinson calls Trump pardon discussions \"inappropriate\" during campaign - Face the Nation",
+      "description": "Former Arkansas Gov. Asa Hutchinson, who is seeking the Republican nomination for president, discussed a proposed mental acuity test for politicians over 75 ...",
+      "url": "https://www.youtube.com/watch?v=oXbAcH-9dh0",
+      "urlToImage": "https://i.ytimg.com/vi/oXbAcH-9dh0/maxresdefault.jpg",
+      "publishedAt": "2023-07-30T16:02:37Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "INSIDER" },
+      "author": "Lauren Edmonds",
+      "title": "Man living near Elon Musk's new Twitter sign blasts bright lights - Insider",
+      "description": "The neighbor told San Francisco new station KTVU that he's \"not a fan\" of the sign's bright, sometimes strobing lights.",
+      "url": "https://www.insider.com/neighbor-elon-musks-new-twitter-sign-blasts-bright-lights-2023-7",
+      "urlToImage": "https://i.insider.com/64c678aacf07780019674a59?width=1200&format=jpeg",
+      "publishedAt": "2023-07-30T15:46:00Z",
+      "content": "A man living across the street from X's San Francisco headquarters said \"it's hard to describe how bright\" the company's new sign is.\r\nOn Friday, Elon Musk had the logo installed atop the building's … [+2843 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Sophie Tanno",
+      "title": "Italy minister says decision to join flagship Chinese scheme ‘wicked’ - CNN",
+      "description": "Italy’s defense minister called his country’s decision to join a flagship Chinese infrastructure scheme “wicked,” as the government weighs up whether continue as part of the scheme.",
+      "url": "https://www.cnn.com/2023/07/30/europe/italy-china-belt-and-road-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230730101840-guido-crosetto-061923.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-07-30T15:42:00Z",
+      "content": "Italys defense minister called his countrys decision to join a flagship Chinese infrastructure scheme wicked, as the government weighs up whether continue as part of the scheme.\r\nIn an interview with… [+1731 chars]"
+    },
+    {
+      "source": { "id": null, "name": "MacRumors" },
+      "author": "Joe Rossignol",
+      "title": "iPhone 15 Pro Said to Be 'Easier to Repair' Like iPhone 14 and 14 Plus - MacRumors",
+      "description": "Following in the footsteps of the iPhone 14 and iPhone 14 Plus, the upcoming iPhone 15 Pro and iPhone 15 Pro Max will have a redesigned chassis that...",
+      "url": "https://www.macrumors.com/2023/07/30/iphone-15-pro-removable-back-glass/",
+      "urlToImage": "https://images.macrumors.com/t/v02f3B_8BKfoxZkW-6IHKaEg-2Q=/1600x/article-new/2023/07/iPhone-14-Pro-Cracked-Glass.jpg",
+      "publishedAt": "2023-07-30T15:33:08Z",
+      "content": "Following in the footsteps of the iPhone 14 and iPhone 14 Plus, the upcoming iPhone 15 Pro and iPhone 15 Pro Max will have a redesigned chassis that makes the devices \"easier to repair,\" according to… [+1555 chars]"
+    },
+    {
+      "source": { "id": null, "name": "SciTechDaily" },
+      "author": null,
+      "title": "Astronomers Shocked by “Weird” Phenomena: Hubble Sees Evaporating Planet Getting the Hiccups - SciTechDaily",
+      "description": "Rambunctious Star Pummels Young World with Torrential Winds and Blistering Radiation Life around an ill-tempered red dwarf star is no fun for accompanying newborn planets. Call it a baptism of fire. Entangled magnetic fields cause a red dwarf to spit out \"sup…",
+      "url": "https://scitechdaily.com/astronomers-shocked-by-weird-phenomena-hubble-sees-evaporating-planet-getting-the-hiccups/",
+      "urlToImage": "https://scitechdaily.com/images/Planet-Red-Dwarf-Star-Concept-Art.jpg",
+      "publishedAt": "2023-07-30T15:10:15Z",
+      "content": "The exoplanet AU Mic b, in a young planetary system orbiting red dwarf star AU Microscopii, displays unpredictable atmospheric loss. Astronomers are studying this peculiar phenomenon to understand pl… [+4637 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "",
+      "title": "Terence Crawford vs. Errol Spence Jr. results, takeaways: Bud's masterclass leaves no need for a rematch - CBS Sports",
+      "description": "While Spence is expected to exercise his rematch clause, he should reconsider given how one-sided the action was on Saturday",
+      "url": "https://www.cbssports.com/boxing/news/terence-crawford-vs-errol-spence-jr-results-takeaways-buds-masterclass-leaves-no-need-for-a-rematch/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/07/30/a3ab85c8-5d65-4ace-aad7-4fd4956632cd/thumbnail/1200x675/9a6343cbc951c80e8bd76e50c7997b15/terence-crawford-spence-postfight.jpg",
+      "publishedAt": "2023-07-30T14:36:00Z",
+      "content": "After years of talk and anticipation, Terence Crawford battered, blooded and bruised Errol Spence Jr. on Saturday to become the first undisputed welterweight champion of the four-belt era. Anticipate… [+8286 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Reuters",
+      "title": "Banks vote to limit accounting of emissions in bond and stock sales - New York Post ",
+      "description": "The majority of banks comprising an industry working group backed a plan earlier this month to exclude two-thirds of the emissions linked to their capital markets businesses from being attributed t…",
+      "url": "https://nypost.com/2023/07/30/banks-vote-to-limit-accounting-of-emissions-in-bond-and-stock-sales/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/07/banks-carbon-emissions-comp.jpg?quality=75&strip=all&1690711702&w=1024",
+      "publishedAt": "2023-07-30T14:15:00Z",
+      "content": "Banks working to develop global standards on accounting for carbon emissions in bond or stock sale underwriting have voted to exclude most of these emissions from their own carbon footprint, three pe… [+4526 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Cait Freda, Kristina Partsinevelos",
+      "title": "The fight over a bill targeting credit card fees pits payment companies against retailers - CNBC",
+      "description": "Bipartisan support for the Credit Card Competition Act has surged since it was introduced last year.",
+      "url": "https://www.cnbc.com/2023/07/30/credit-card-fee-fight-pits-payment-companies-against-retailers.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107278752-1690573907129-gettyimages-1035471438-VISA_SETTLES.jpeg?v=1690725395&w=1920&h=1080",
+      "publishedAt": "2023-07-30T13:56:35Z",
+      "content": "A bipartisan push in Washington to clamp down on credit card fees is pitting retailers against network payment processors and both sides are working hard to gain the attention of consumers.\r\nThe Cred… [+8749 chars]"
+    },
+    {
+      "source": { "id": "bloomberg", "name": "Bloomberg" },
+      "author": "Elena Popina, Jess Menton",
+      "title": "Stocks Are Doing So Well That It May Be Time to Start Worrying - Bloomberg",
+      "description": "US stock market traders are almost completely fearless now, which has some strategists bracing for a possible selloff.",
+      "url": "https://www.bloomberg.com/news/articles/2023-07-30/stocks-are-doing-so-well-that-it-may-be-time-to-start-worrying",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iW0igr07gaJQ/v0/1200x800.jpg",
+      "publishedAt": "2023-07-30T13:10:45Z",
+      "content": "US stock market traders are almost completely fearless now, which has some strategists bracing for a possible selloff. \r\nThe S&amp;P 500 Index has gained 19% this year, pushing investors off the side… [+199 chars]"
+    },
+    {
+      "source": { "id": null, "name": "GoErie.com" },
+      "author": "Matthew Rink",
+      "title": "Former president Trump bashed Biden, DeSantis during Erie campaign stop - GoErie.com",
+      "description": "The former president spoke for 90 minutes where he bashed Biden, deflected from criminal probes, and promised to halt the influx of immigrants.",
+      "url": "https://www.goerie.com/story/news/politics/2023/07/30/donald-trump-erie-pa-rally-speech-bashed-joe-biden-ron-desantis-indictment-deep-state/70459713007/",
+      "urlToImage": "https://www.goerie.com/gcdn/authoring/authoring-images/2023/07/30/NETN/70493347007-p-21-trumperie-072923.jpg?crop=2938,1661,x0,y108&width=2938&height=1661&format=pjpg&auto=webp",
+      "publishedAt": "2023-07-30T12:18:33Z",
+      "content": "Former President Donald Trump, two days removed from being indicted on additional felony charges for allegedly mishandling classified documents after leaving the White House, went on the defensive at… [+10046 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Niger coup leader warns regional and Western powers against military intervention - BBC",
+      "description": "West African leaders set a seven-day deadline for the junta to reinstate the ousted president.",
+      "url": "https://www.bbc.com/news/world-africa-66353284",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10C0/production/_130588240_47f0379e40331c11f7245cf9704fc450eebd83650_0_4708_32821000x697.jpg",
+      "publishedAt": "2023-07-30T11:49:05Z",
+      "content": "West African leaders have threatened military action against Niger's military junta after it took power in a coup last week\r\nThe leaders gave the junta seven days to reinstate President Mohamed Bazou… [+3051 chars]"
+    }
+  ]
+}
